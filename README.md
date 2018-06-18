@@ -10,6 +10,7 @@
 ### 前端框架
 
 - [Vue页面需要绑定的元素都要先声明 data, 否则不能进行依赖收集](https://github.com/axetroy/stackoverflow/issues/5)
+- [nuxt.js 服务端渲染没法做序列化的嵌套页面渲染](https://github.com/axetroy/stackoverflow/issues/7)
 
 ### 部署
 
