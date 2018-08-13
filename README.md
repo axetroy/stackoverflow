@@ -7,6 +7,10 @@
 - [前端框架服务端渲染下，身份认证的问题](https://github.com/axetroy/stackoverflow/issues/3)
 - [子元素浮动之后，没有把父级元素撑开](https://github.com/axetroy/stackoverflow/issues/4)
 
+### 移动开发
+
+- [iOS Safari 11 以下开启无痕模式，是读取不了localstorage的](https://github.com/axetroy/stackoverflow/issues/13)
+
 ### 前端框架
 
 - [Vue页面需要绑定的元素都要先声明 data, 否则不能进行依赖收集](https://github.com/axetroy/stackoverflow/issues/5)
