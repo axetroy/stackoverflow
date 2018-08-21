@@ -11,6 +11,10 @@
 
 - [iOS Safari 11 以下开启无痕模式，是读取不了localstorage的](https://github.com/axetroy/stackoverflow/issues/13)
 
+### 通用兼容性
+
+- [autocomplete="off" 不能关闭自动填充](https://github.com/axetroy/stackoverflow/issues/14)
+
 ### 前端框架
 
 - [Vue页面需要绑定的元素都要先声明 data, 否则不能进行依赖收集](https://github.com/axetroy/stackoverflow/issues/5)
