@@ -17,6 +17,12 @@
 - [autocomplete="off" 不能关闭自动填充](https://github.com/axetroy/stackoverflow/issues/14)
 - [部分浏览器开启无痕模式，localStorage 和 sessionStorage 对象为null](https://github.com/axetroy/stackoverflow/issues/13)
 
+### IE浏览器
+
+- [placeholder 在IE下需要设置颜色, 否则为黑色](https://github.com/axetroy/stackoverflow/issues/12)
+- [IE 不支持 position: initial](https://github.com/axetroy/stackoverflow/issues/10)
+- [IE 不支持 background-color: inherit](https://github.com/axetroy/stackoverflow/issues/11)
+
 ### 前端框架
 
 - [Vue页面需要绑定的元素都要先声明 data, 否则不能进行依赖收集](https://github.com/axetroy/stackoverflow/issues/5)
