@@ -9,13 +9,13 @@
 
 ### 移动开发
 
-- [iOS Safari 11 以下开启无痕模式，是读取不了localstorage的](https://github.com/axetroy/stackoverflow/issues/13)
 - [移动端 click 模拟click事件，调用一次不生效](https://github.com/axetroy/stackoverflow/issues/15)
 - [iOS safari设置平滑滚动后，fixed定位错误](https://github.com/axetroy/stackoverflow/issues/16)
 
 ### 通用兼容性
 
 - [autocomplete="off" 不能关闭自动填充](https://github.com/axetroy/stackoverflow/issues/14)
+- [部分浏览器开启无痕模式，localStorage 和 sessionStorage 对象为null](https://github.com/axetroy/stackoverflow/issues/13)
 
 ### 前端框架
 
