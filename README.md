@@ -32,4 +32,4 @@
 ### 部署
 
 - [Docker不能挂载以.开头的文件](https://github.com/axetroy/stackoverflow/issues/6)
-- [Docker 容器内的时间与宿主时间不一致]（https://github.com/axetroy/stackoverflow/issues/17）
+- [Docker 容器内的时间与宿主时间不一致](https://github.com/axetroy/stackoverflow/issues/17)
