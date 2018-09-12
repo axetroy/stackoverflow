@@ -29,6 +29,10 @@
 - [Vue在data()函数中，无法获取computed的值](https://github.com/axetroy/stackoverflow/issues/9)
 - [nuxt.js 服务端渲染没法做序列化的嵌套页面渲染](https://github.com/axetroy/stackoverflow/issues/7)
 
+### 后端开发
+
+- [Javascript/Node 无限递归会爆栈](https://github.com/axetroy/stackoverflow/issues/18)
+
 ### 部署
 
 - [Docker不能挂载以.开头的文件](https://github.com/axetroy/stackoverflow/issues/6)
