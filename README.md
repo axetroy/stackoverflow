@@ -16,6 +16,7 @@
 
 - [autocomplete="off" 不能关闭自动填充](https://github.com/axetroy/stackoverflow/issues/14)
 - [部分浏览器开启无痕模式，localStorage 和 sessionStorage 对象为null](https://github.com/axetroy/stackoverflow/issues/13)
+- [移动端中 type="number" 存在兼容性问题](https://github.com/axetroy/stackoverflow/issues/20)
 
 ### IE浏览器
 
