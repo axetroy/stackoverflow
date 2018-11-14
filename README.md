@@ -36,6 +36,7 @@
 ### 后端开发
 
 - [Javascript/Node 无限递归会爆栈](https://github.com/axetroy/stackoverflow/issues/18)
+- [Node应用内存占用过高，然后超出内存限制](https://github.com/axetroy/stackoverflow/issues/23)
 
 ### 部署
 
