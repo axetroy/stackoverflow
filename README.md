@@ -7,6 +7,7 @@
 - [前端框架服务端渲染下，身份认证的问题](https://github.com/axetroy/stackoverflow/issues/3)
 - [子元素浮动之后，没有把父级元素撑开](https://github.com/axetroy/stackoverflow/issues/4)
 - [position: absolute 会导致 offsetLeft为0](https://github.com/axetroy/stackoverflow/issues/21)
+- [Web App 调用摄像头/麦克风的问题](https://github.com/axetroy/stackoverflow/issues/24)
 
 ### 移动开发
 
