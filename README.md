@@ -38,6 +38,7 @@
 
 - [Javascript/Node 无限递归会爆栈](https://github.com/axetroy/stackoverflow/issues/18)
 - [Node应用内存占用过高，然后超出内存限制](https://github.com/axetroy/stackoverflow/issues/23)
+- [Golang中，读取http request的body，只能读取一次](https://github.com/axetroy/stackoverflow/issues/25)
 
 ### 部署
 
