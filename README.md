@@ -33,6 +33,7 @@
 - [Vue在data()函数中，无法获取computed的值](https://github.com/axetroy/stackoverflow/issues/9)
 - [nuxt.js 服务端渲染没法做序列化的嵌套页面渲染](https://github.com/axetroy/stackoverflow/issues/7)
 - [nuxt.js 框架，无法在 asyncData 和 fetch 函数中，获取Vue组件的options](https://github.com/axetroy/stackoverflow/issues/19)
+- [Nuxt在更新后，旧的页面还存在，跳转链接的时候失败](https://github.com/axetroy/stackoverflow/issues/26)
 
 ### 后端开发
 
