@@ -13,6 +13,7 @@
 
 - [移动端 click 模拟click事件，调用一次不生效](https://github.com/axetroy/stackoverflow/issues/15)
 - [iOS safari设置平滑滚动后，fixed定位错误](https://github.com/axetroy/stackoverflow/issues/16)
+- [微信 Web 开发，H5认证在安卓不跳转的问题](https://github.com/axetroy/stackoverflow/issues/27)
 
 ### 通用兼容性
 
