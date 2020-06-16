@@ -42,6 +42,8 @@
 - [Node应用内存占用过高，然后超出内存限制](https://github.com/axetroy/stackoverflow/issues/23)
 - [Golang中，读取http request的body，只能读取一次](https://github.com/axetroy/stackoverflow/issues/25)
 - [Golang 的 Gin 框架不支持 Restful风格的路由](https://github.com/axetroy/stackoverflow/issues/28)
+- [Redis 的 Set 和 List 无法为单独的元素设置过期时间](https://github.com/axetroy/stackoverflow/issues/30)
+
 
 ### 部署
 
