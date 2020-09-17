@@ -27,6 +27,7 @@
 - [placeholder 在IE下需要设置颜色, 否则为黑色](https://github.com/axetroy/stackoverflow/issues/12)
 - [IE 不支持 position: initial](https://github.com/axetroy/stackoverflow/issues/10)
 - [IE 不支持 background-color: inherit](https://github.com/axetroy/stackoverflow/issues/11)
+- [IE 浏览器之 `import` 关键字](https://github.com/axetroy/stackoverflow/issues/31)
 
 ### 前端框架
 
